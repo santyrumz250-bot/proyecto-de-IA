@@ -1,3 +1,9 @@
+# Cierre de la evaluación
+
+Puntajes finales: 4, 8, 10, 18, 18 y 14. Las fotografías originales de las tres entradas de iteración 3 confirman dos columnas. C2 pasa de 3 a 6 y el total de 15 a 18. Se conservan C1 y C3. Los estados provisionales y pendientes del registro histórico siguiente quedan sustituidos por este cierre y por los CSV actuales. La publicación previa existe; esta corrección aún debe sincronizarse con GitHub.
+
+# Registro histórico conservado
+
 # Seguimiento de pruebas reales de la semana 7
 
 ## Procedencia

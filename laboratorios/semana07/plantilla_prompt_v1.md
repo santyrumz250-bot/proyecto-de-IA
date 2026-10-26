@@ -42,7 +42,7 @@ Gemini, según el usuario. Versión exacta, parámetros y fechas de ejecución n
 
 ## Limitaciones
 
-Los criterios no acreditan suficiencia ambiental ni cumplimiento normativo. No sustituyen medición, documentos o revisión profesional. El ejemplo fue preparado con IA y no se acredita autoría independiente del estudiante como solicita la guía. La versión 3 podría empatar con menos texto si sus capturas confirman dos columnas originales; su C2 permanece provisional. Una ejecución por caso y una sola prueba reservada no miden variabilidad ni generalización amplia.
+Los criterios no acreditan suficiencia ambiental ni cumplimiento normativo. No sustituyen medición, documentos o revisión profesional. El ejemplo fue preparado con IA y no se acredita autoría independiente del estudiante como solicita la guía. La versión 3 también obtuvo 18/18 después del cotejo fotográfico. Se conserva la versión 4 porque es la que cuenta con robustez documentada; no se atribuye al ejemplo una mejora de puntaje. Una ejecución por caso y una sola prueba reservada no miden variabilidad ni generalización amplia.
 
 ## Evidencia posterior
 
