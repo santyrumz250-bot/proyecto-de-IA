@@ -1,0 +1,21 @@
+﻿Iteración,Entrada,C1,C2,C3,Total,Estado,Modelo
+0,1,0,0,0,0,Evaluación de transcripción,Gemini; versión no indicada
+0,2,1,0,2,3,Evaluación de transcripción,Gemini; versión no indicada
+0,3,0,0,1,1,Evaluación de transcripción,Gemini; versión no indicada
+1,1,1,0,1,2,Evaluación de transcripción,Gemini; versión no indicada
+1,2,1,0,2,3,Evaluación de transcripción,Gemini; versión no indicada
+1,3,2,0,1,3,Evaluación de transcripción,Gemini; versión no indicada
+2,1,2,0,1,3,Evaluación de transcripción,Gemini; versión no indicada
+2,2,2,0,2,4,Evaluación de transcripción,Gemini; versión no indicada
+2,3,2,0,1,3,Evaluación de transcripción,Gemini; versión no indicada
+3,1,2,1,2,5,PROVISIONAL C2,Gemini; versión no indicada
+3,2,2,1,2,5,PROVISIONAL C2,Gemini; versión no indicada
+3,3,2,1,2,5,PROVISIONAL C2,Gemini; versión no indicada
+4,1,2,2,2,6,Evaluación de transcripción,Gemini; versión no indicada
+4,2,2,2,2,6,Evaluación de transcripción,Gemini; versión no indicada
+4,3,2,2,2,6,Evaluación de transcripción,Gemini; versión no indicada
+5,1,2,1,1,4,Evaluación de transcripción,Gemini; versión no indicada
+5,2,2,1,2,5,Evaluación de transcripción,Gemini; versión no indicada
+5,3,2,1,2,5,Evaluación de transcripción,Gemini; versión no indicada
+Robustez versión 4,4,2,2,2,6,Transcripción recibida,Gemini; versión no indicada
+Repetición versión 5,2,2,1,2,5,Fotografías complementarias; ejecución adicional,Gemini; etiqueta Flash visible

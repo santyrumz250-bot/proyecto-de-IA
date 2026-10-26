@@ -1,0 +1,3 @@
+# Declaración de uso de IA
+
+Gemini se utilizó para generar las 18 respuestas de las seis versiones y la respuesta de robustez, según las transcripciones aportadas por el estudiante. ChatGPT ayudó a redactar los casos ficticios, prompts, ejemplo few-shot, rúbrica, calificaciones, análisis, plantilla y reporte, y a organizar los archivos. El estudiante trasladó las respuestas de Gemini a esta conversación. No se conoce la versión exacta del modelo ni se verificaron parámetros o conversaciones mediante capturas. El ejemplo few-shot no se acredita como escrito independientemente por el estudiante. No se fabricaron capturas ni se validaron las referencias normativas de las respuestas.
